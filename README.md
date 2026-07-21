@@ -1,8 +1,5 @@
 #  EdoBaz 
 
-**EdoBaz** – Chuo City Community Bus
-
-
 **EdoBaz** helps you use the Edo Bus, Chuo City’s community bus service in Tokyo.
 
 View live bus locations on an interactive map, check bus stop timetables, and quickly find the nearest bus stop from your current location.

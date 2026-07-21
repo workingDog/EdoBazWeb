@@ -12,7 +12,8 @@ Whether you’re a resident or a visitor, **EdoBaz** provides the information yo
 * Support for both North and South routes
 * Browse all bus stops and their timetables
 * Find the nearest bus stop from your current location
-* See upcoming departures for the next hour
+* Calculate and display the shortest walking path to the nearest bus stop 
+* Highlight upcoming departures for the next hour
 * Choose between Standard, Hybrid, and Satellite maps
 * Available in English and Japanese
 

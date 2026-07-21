@@ -32,4 +32,4 @@ Just open the app and start using it.
 
 ## Privacy
 
-**EdoBaz** Privacy Policy can be access here [EdoBaz Privacy Policy](https://workingdog.github.io/EdoBaz/)
+**EdoBaz** Privacy Policy can be access here [EdoBaz Privacy Policy](https://workingdog.github.io/EdoBazWeb/)

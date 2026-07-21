@@ -1,38 +1,38 @@
-#  Tapiko
+#  EdoBaz 
+
+**EdoBaz** – Chuo City Community Bus
 
 
-Uses an iPhone’s Apple Core NFC capabilities to read a Japanese PASMO or SUICA transit card and display its balance and history.
+**EdoBaz** helps you use the Edo Bus, Chuo City’s community bus service in Tokyo.
 
-The application does not write to cards or perform payments. It only reads card information and displays the stored balance and transaction history. It cannot modify, recharge, or otherwise change any PASMO or Suica cards. 
+View live bus locations on an interactive map, check bus stop timetables, and quickly find the nearest bus stop from your current location.
 
+Whether you’re a resident or a visitor, **EdoBaz** provides the information you need in a simple, easy-to-use interface.
 
-## Highlights
+## Features
 
-The app provides the following functionality:
-
-* Supports both PASMO and Suica cards.
-* Displays the current card balance and balance history.
-* Displays the last 10 transactions and identifies how the card was used, such as train, bus, retail purchase, or recharge.
-* Processes card data entirely on-device using native iPhone NFC.
-* Supports both English and Japanese languages.
-* Supports multiple cards.
-* Displays a chart of card charges by month in a year, over multiple years.
-
-Note, 
-* If no card charge records exist for previous years, only the current year is shown.
-* The year selector in the top-right menu automatically includes the current year.
-* Additional years are added automatically when charge records exist for those years.
-* Selecting a year updates the chart to display the monthly charge totals for that year.
+* View live locations of Edo Buses on the map
+* Support for both North and South routes
+* Browse all bus stops and their timetables
+* Find the nearest bus stop from your current location
+* See upcoming departures for the next hour
+* Choose between Standard, Hybrid, and Satellite maps
+* Available in English and Japanese
 
 
-Tapiko is designed for anyone using supported Japanese transit cards who wants a simple, fast, and privacy-friendly way to view their card balance and recent transaction history.
+## Simple and Private
 
-The app requires no account, registration, subscription, payment information, internet connection, or advertising. Users simply scan their card and immediately receive the information they need.
+EdoBaz does not require an account, registration, or subscription.
 
-The intentionally simple interface is a usability and accessibility choice, not a lack of functionality. Tapiko provides a focused, privacy-friendly solution that makes transit card information easily accessible to users who may not want or need complicated services.
+The app contains:
+
+* No advertising
+* No in-app purchases
+* No tracking
+
+Just open the app and start using it.
 
 
 ## Privacy
 
-Tapiko Privacy Policy can be access here [Tapiko Privacy Policy](https://workingdog.github.io/Tapiko/)
-
+**EdoBaz** Privacy Policy can be access here [EdoBaz Privacy Policy](https://workingdog.github.io/EdoBaz/)
